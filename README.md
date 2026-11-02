@@ -1,7 +1,7 @@
 <div align="center">
   
 <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38BDF8&height=200&section=header&text=Fareeh%20Kv&fontSize=65&fontColor=FFFFFF&fontAlignY=40"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38BDF8&height=200&section=header&text=Hi,%20I%20am%20Fareeh%20Kv&fontSize=45&fontColor=FFFFFF&fontAlignY=40"
     width="100%"
     alt="FAREEH KV"
   />
