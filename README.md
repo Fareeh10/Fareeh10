@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:141E30,100:243B55&height=200&section=header&text=Fareeh%20KV&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Web%20%26%20App%20Developer&descAlignY=58&descSize=20" width="100%" />
 <a href="https://github.com/Fareeh10">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Web+%26+App+Developer;Building+Ideas+Into+Reality;Always+Learning+Something+New" alt="Typing SVG" />
 </a>
