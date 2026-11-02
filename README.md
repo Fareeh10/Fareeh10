@@ -15,21 +15,49 @@
 </p>
 </div>
 
-⸻
+<h2 align="center">About Me</h2>
+<p align="center">
+  A passionate Computer Science student focused on building meaningful digital experiences through web and mobile application development.
+</p>
+<br/>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-👨‍💻 About Me
+Background
 
-I’m a Computer Science student passionate about building web and mobile applications. I enjoy transforming ideas into practical software solutions and exploring technologies that help solve real-world problems.
+* B.Tech in Computer Science & Engineering
+* MES College of Engineering, Kuttippuram
+* Expected Graduation: 2027
+* Interested in Web & Mobile Development
 
-* 🎓 B.Tech Computer Science & Engineering (2023–2027)
-* 💻 Interested in Web Development and Mobile App Development
-* 🌱 Currently exploring React Native and TypeScript
-* 🔭 Working on AgriMithra
-* 🏆 Third Prize – AVENTRON 30-Hour Hackathon
-* ⚡ Always curious, learning, and building.
+</td>
+<td width="50%" valign="top">
 
-⸻
+Currently
 
+* Building AgriMithra
+* Exploring React Native & TypeScript
+* Developing full-stack applications
+* Learning through projects and collaboration
+
+</td>
+</tr>
+</table>
+<br/>
+<div align="center">
+
+ACHIEVEMENT
+
+Third Prize — AVENTRON 30-Hour Hackathon
+
+Competed among 25+ teams from various colleges.
+
+<br/>
+
+Turning ideas into applications, and challenges into opportunities.
+
+</div>
 🛠️ Tech Stack
 
 <div align="left">
