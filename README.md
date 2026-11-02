@@ -17,7 +17,7 @@ Building useful things with code.
 </a>
 </div>
 
-About
+<h2>About</h2>
 
 Computer Science student passionate about web and mobile application development. I enjoy turning ideas into practical software solutions and building applications that solve real-world problems.
 
@@ -26,7 +26,7 @@ Computer Science student passionate about web and mobile application development
 * Exploring React Native and TypeScript
 * Interested in full-stack and mobile application development
 
-<h1>Tech Stack</h1>
+<h2>Tech Stack</h2>
 
 **Frontend**
 
