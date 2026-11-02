@@ -63,7 +63,7 @@ Computer Science student passionate about web and mobile application development
 
 <h2>Featured Projects</h2> 
 
-### MES Result Analyzer — Examination Result Processing & Analytics
+<h3>MES Result Analyzer — Examination Result Processing & Analytics</h3>
 
 A full-stack web application developed for MES College of Engineering to automate KTU examination result processing. Extracts batch-wise student grades from result PDFs, generates downloadable Grade Reports and Analysis Reports, and provides subject-wise performance analytics, graphical visualizations, and administrative management.
 
@@ -71,7 +71,7 @@ A full-stack web application developed for MES College of Engineering to automat
 
 ---
 
-### AgriMithra — Integrated Agriculture & Animal Husbandry Platform
+<h3>AgriMithra — Integrated Agriculture & Animal Husbandry Platform</h3>
 
 A mobile application designed to provide digital solutions for farmers, featuring crop recommendations, AI-powered crop assistance, fertilizer calculation, agricultural community interaction, and an online marketplace.
 
@@ -79,7 +79,7 @@ A mobile application designed to provide digital solutions for farmers, featurin
 
 ---
 
-### Bait-un Noor — Online Religious Education Platform
+<h3>Bait-un Noor — Online Religious Education Platform</h3>
 
 A responsive website for an online religious education platform based in the UAE, featuring a modern user interface and a clean, accessible design.
 
