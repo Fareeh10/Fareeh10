@@ -54,9 +54,7 @@ Computer Science student passionate about web and mobile application development
 
 <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode" />
 
-## Featured Projects
-
----
+<h2>Featured Projects</h2> 
 
 ### MES Result Analyzer — Examination Result Processing & Analytics
 
