@@ -34,7 +34,7 @@ Computer Science student passionate about web and mobile application development
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,js, ts" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,js,ts" />
 
 **Mobile Development**
 
