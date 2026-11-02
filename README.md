@@ -1,10 +1,14 @@
 <div align="center">
-
-<h1>Hi, I am FAREEH KV</h1>
+  
+<img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38BDF8&height=250&section=header&text=FAREEH%20KV&fontSize=75&fontColor=FFFFFF&fontAlignY=40"
+    width="100%"
+    alt="FAREEH KV"
+  />
 
 <a href="https://git.io/typing-svg">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Web+%26+App+Developer;Building+Web+Applications;Exploring+Mobile+Development;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Web+%26+App+Developer;Building+Web+Applications;Exploring+Mobile+Development;Turning+Ideas+Into+Reality" />
 
 </a>
 
