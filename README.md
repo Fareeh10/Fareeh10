@@ -2,9 +2,13 @@
 
 <h1>Hi, I am FAREEH KV</h1>
 
-**Web & App Developer**
+<a href="https://git.io/typing-svg">
 
-Building useful things with code.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Web+%26+App+Developer;Building+Web+Applications;Exploring+Mobile+Development;Turning+Ideas+Into+Reality" />
+
+</a>
+
+<br>
 
 <a href="https://www.linkedin.com/in/fareehkv">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
