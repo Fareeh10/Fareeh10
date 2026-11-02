@@ -20,30 +20,79 @@
   A passionate Computer Science student focused on building meaningful digital experiences through web and mobile application development.
 </p>
 <br/>
-<table align="center">
+<h2 align="center">ABOUT ME</h2>
+
+<p align="center">
+  A Computer Science student passionate about building meaningful digital experiences.
+</p>
+
+<br/>
+
+<div align="center">
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#161B22">
 
-Background
+<h3 align="center">BACKGROUND</h3>
 
-* B.Tech in Computer Science & Engineering
-* MES College of Engineering, Kuttippuram
-* Expected Graduation: 2027
-* Interested in Web & Mobile Development
+<p align="center">
+  <img src="https://img.shields.io/badge/EDUCATION-B.Tech-243B55?style=flat-square" />
+</p>
+
+<p align="center">
+  <strong>Computer Science & Engineering</strong>
+  <br/>
+  MES College of Engineering
+  <br/>
+  Kuttippuram, Kerala
+</p>
+
+<hr/>
+
+<p align="center">
+  <strong>2023 — 2027</strong>
+  <br/>
+  Expected Graduation
+</p>
+
+<p align="center">
+  Focused on Web Development & Mobile App Development
+</p>
 
 </td>
-<td width="50%" valign="top">
 
-Currently
+<td width="50%" valign="top" bgcolor="#161B22">
 
-* Building AgriMithra
-* Exploring React Native & TypeScript
-* Developing full-stack applications
-* Learning through projects and collaboration
+<h3 align="center">CURRENTLY</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-Currently%20Building-166534?style=flat-square" />
+</p>
+
+<p align="center">
+  <strong>AgriMithra</strong>
+  <br/>
+  Integrated Agriculture & Animal Husbandry Platform
+</p>
+
+<hr/>
+
+<p align="center">
+  <strong>Exploring</strong>
+  <br/>
+  React Native & TypeScript
+</p>
+
+<p align="center">
+  Developing full-stack applications and continuously improving through hands-on projects.
+</p>
 
 </td>
 </tr>
 </table>
+
+</div>
 <br/>
 <div align="center">
 
