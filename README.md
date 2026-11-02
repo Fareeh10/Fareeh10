@@ -54,3 +54,28 @@ Computer Science student passionate about web and mobile application development
 
 <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode" />
 
+## Featured Projects
+
+---
+
+### MES Result Analyzer — Examination Result Processing & Analytics
+
+A full-stack web application developed for MES College of Engineering to automate KTU examination result processing. Extracts batch-wise student grades from result PDFs, generates downloadable Grade Reports and Analysis Reports, and provides subject-wise performance analytics, graphical visualizations, and administrative management.
+
+`JavaScript` · `Node.js` · `Express.js` · `MongoDB` · `PDFKit` · `Chart.js`
+
+---
+
+### AgriMithra — Integrated Agriculture & Animal Husbandry Platform
+
+A mobile application designed to provide digital solutions for farmers, featuring crop recommendations, AI-powered crop assistance, fertilizer calculation, agricultural community interaction, and an online marketplace.
+
+`React Native` · `Expo` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB`
+
+---
+
+### Bait-un Noor — Online Religious Education Platform
+
+A responsive website for an online religious education platform based in the UAE, featuring a modern user interface and a clean, accessible design.
+
+`React` · `Tailwind CSS` · `JavaScript`
