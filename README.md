@@ -136,18 +136,6 @@ Achievement	Recognition
 
 </div>
 
-⸻
-
-📈 GitHub Statistics
-
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fareeh10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fareeh10&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="70%" src="https://streak-stats.demolab.com?user=Fareeh10&theme=tokyonight&hide_border=true" />
-</div>
-
-⸻
-
 🤝 Connect With Me
 
 <div align="center">
