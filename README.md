@@ -1,12 +1,12 @@
 <div align="center">
   
 <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38BDF8&height=200&section=header&text=Hi,%20I%20am%20Fareeh%20KV&fontSize=45&fontColor=FFFFFF&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F5C,50:155EEF,100:00C2FF&height=220&section=header&text=Hi,%20I%20am%20Fareeh%20KV&fontSize=48&fontColor=FFFFFF&fontAlignY=38"
     width="100%"
     alt="FAREEH KV"
     style="display: block;"
   /><img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Web+%26+App+Developer;Building+Web+Applications;Exploring+Mobile+Development;Turning+Ideas+Into+Reality"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Web+%26+App+Developer;Building+Web+Applications;Exploring+Mobile+Development;Turning+Ideas+Into+Reality"
     alt="Typing SVG"
   />
 
