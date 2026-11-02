@@ -59,11 +59,6 @@ Turning ideas into applications, and challenges into opportunities.
 
 </div>
 
-
-
-
-⸻
-
 <h2 align="center">TECHNOLOGIES & TOOLS</h2>
 <p align="center">
   Technologies I use to build web applications, mobile apps, and software solutions.
@@ -95,122 +90,6 @@ Turning ideas into applications, and challenges into opportunities.
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 <br/>
-
-⸻
-
-<h2 align="center">FEATURED PROJECTS</h2>
-<p align="center">
-  A selection of projects focused on solving practical problems through software development.
-</p>
-<br/>
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>01. MES Result Analyzer</h3>
-<p><strong>Full-Stack Web Application</strong></p>
-
-A web application developed for MES College of Engineering to automate KTU examination result processing and academic performance analysis.
-
-* Batch-wise student grade extraction
-* Automated Grade and Analysis Reports
-* Subject-wise statistics and pass percentages
-* Graphical performance visualization
-* Administrative dashboard
-
-<p>
-<strong>Stack:</strong><br/>
-<code>JavaScript</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>02. AgriMithra</h3>
-<p><strong>Mobile Application</strong></p>
-
-An integrated digital platform for agriculture and animal husbandry, designed to provide useful services and resources for farmers.
-
-* Crop recommendations
-* AI-powered crop assistance
-* Fertilizer calculator
-* Agricultural community
-* Online marketplace
-
-<p>
-<strong>Stack:</strong><br/>
-<code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>Node.js</code> <code>MongoDB</code>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>03. Bait-un Noor</h3>
-<p><strong>Web Development</strong></p>
-
-A website for an online religious education platform based in the UAE, focusing on a modern and responsive user experience.
-
-* Responsive user interface
-* Modern website design
-* React-based frontend
-
-<p>
-<strong>Stack:</strong><br/>
-<code>React.js</code> <code>Tailwind CSS</code>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>04. More Projects</h3>
-<p><strong>Explore My Work</strong></p>
-
-I’m continuously experimenting with new ideas, developing applications, and improving my software development skills.
-
-<br/>
-<a href="https://github.com/Fareeh10?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-243B55?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
-</tr>
-</table>
-<br/>
-
-⸻
-
-<h2 align="center">ACHIEVEMENTS & RECOGNITION</h2>
-<br/>
-<table width="100%">
-<tr>
-<td align="center" width="33%">
-<h2>03</h2>
-<strong>AVENTRON</strong>
-
-30-Hour Hackathon
-
-Third Prize
-
-25+ participating teams
-
-</td>
-<td align="center" width="33%">
-<h2>03</h2>
-<strong>MES HACKATHON</strong>
-
-College-Level Hackathon
-
-Third Prize
-
-</td>
-<td align="center" width="33%">
-<h2>01</h2>
-<strong>CERTIFICATE</strong>
-
-Certificate of Excellence
-
-MES Result Analyzer
-
-</td>
-</tr>
-</table>
-<br/>
-
-⸻
 
 <h2 align="center">LET'S CONNECT</h2>
 <p align="center">
