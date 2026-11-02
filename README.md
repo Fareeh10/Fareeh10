@@ -1,8 +1,8 @@
 <div align="center">
 
-FAREEH KV
+<h1>Hi, I am FAREEH KV</h1>
 
-Web & App Developer
+**Web & App Developer**
 
 Building useful things with code.
 
@@ -26,29 +26,35 @@ Computer Science student passionate about web and mobile application development
 * Exploring React Native and TypeScript
 * Interested in full-stack and mobile application development
 
-Tech Stack
+<h1>Tech Stack</h1>
 
-Frontend
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
-Backend
+**Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,ts" />
 
-Mobile Development
+**Mobile Development**
 
- 
+<p>
 
-Databases
+  <img src="https://skillicons.dev/icons?i=react" />
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
 
-Languages & Tools
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode" />
+**Databases**
 
-Selected Projects
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+**Languages & Tools**
+
+<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode" />
+
+**Selected Projects**
 
 <table>
 <tr>
