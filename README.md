@@ -32,7 +32,7 @@ I’m a Computer Science student passionate about building web and mobile applic
 
 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 Frontend Development
 
